@@ -1,25 +1,25 @@
+
 # iCMS
     A iCMS egy nagy CMS alkalmazás, amelyet a Laravelbe építettünk, és egy nagyszerű starter kit webes alkalmazásokhoz.
-
     Ez egy olyan alkalmazás, amely minimalizálja a problémákat, miközben új webalkalmazást hoz létre az összes általános funkcióval a Laravel és a          JavaScript Framework / Library (React JS) használatával.
 
 ## A projectről
-Használt technológia:
 
-Laravel 8.49
-PHP 7.4 | 8.0
-React JS
-Visual Studio kód
+### Használt technológia:
+    Laravel 8.49
+    PHP 7.4 | 8.0
+    React JS
+    Visual Studio kód
 
-    Hogyan kezdjük
+### Hogyan kezdjük
     1. Klónozza a Githubból
     2. Telepítse a Composerrel
     Zeneszerző telepítése
     3. Futtassa a Migration & Seed parancsot
     4. Futtatás helyi gépen
 
-
     http://localhost:8000
+    
     6. Lépjen a CMS portálra Ugrás erre a hivatkozásra - http://localhost:8000/admin
 
     Jelentkezz be az adatok megadásával
@@ -33,60 +33,60 @@ Visual Studio kód
     
     Adminisztrálás
 
- Bejegyzés
- Belépés
- Elfelejtett jelszo
- Jelszó visszaállítása
- Adminisztrálás
+    Bejegyzés
+    Belépés
+    Elfelejtett jelszo
+    Jelszó visszaállítása
+    Adminisztrálás
 
- Adminisztrálás
- Hozzon létre adminisztrátort
- Edit Admin
- List Admin
- Törölje az Adminisztrátort
- Szerepkezelés
- Hozzon létre szerepet a jogosultsággal
- A szerepkör szerkesztése engedéllyel
- Szerep törlése
- Engedélykezelés
- Szerepek hozzáadása az engedélyhez
-Kategória menedzsment
+    Adminisztrálás
+    Hozzon létre adminisztrátort
+    Edit Admin
+    List Admin
+    Törölje az Adminisztrátort
+    Szerepkezelés
+    Hozzon létre szerepet a jogosultsággal
+    A szerepkör szerkesztése engedéllyel
+    Szerep törlése
+    Engedélykezelés
+    Szerepek hozzáadása az engedélyhez
+    Kategória menedzsment
 
- Kategória menedzsment
- Kategória létrehozása
- Kategória szerkesztése
- Lista kategória
- Kategória törlése
-Oldalkezelés
+    Kategória menedzsment
+    Kategória létrehozása
+    Kategória szerkesztése
+    Lista kategória
+    Kategória törlése
+    Oldalkezelés
 
- Oldal / cikkkezelés
- Oldal létrehozása
- Oldal szerkesztése
- Lista oldal
- Oldal törlése
-Blogkezelés
+    Oldal / cikkkezelés
+    Oldal létrehozása
+    Oldal szerkesztése
+    Lista oldal
+    Oldal törlése
+    Blogkezelés
 
- Blogkezelés
- Blog létrehozása
- Blog szerkesztése
- List Blog
- Blog törlése
-Webhelybeállítások
+    Blogkezelés
+    Blog létrehozása
+    Blog szerkesztése
+    List Blog
+    Blog törlése
+    Webhelybeállítások
 
- Weboldal információs rendszer kezelése
- Beállítások szerkesztése
- Csúszka kezelése
- Hozzon létre csúszkát
- Csúszka szerkesztése
- Lista csúszka
- A csúszka törlése
- Webhelykövetés kezelése
- Követési lista
- Törölje a követést
- Értesítési rendszer
- Email értesítés
- Üzenet értesítés
-Ügyfélkezelés
+    Weboldal információs rendszer kezelése
+    Beállítások szerkesztése
+    Csúszka kezelése
+    Hozzon létre csúszkát
+    Csúszka szerkesztése
+    Lista csúszka
+    A csúszka törlése
+    Webhelykövetés kezelése
+    Követési lista
+    Törölje a követést
+    Értesítési rendszer
+    Email értesítés
+    Üzenet értesítés
+    Ügyfélkezelés
 
 ### Ügyfélkezelés
     Listázza az ügyfelet
@@ -94,17 +94,17 @@ Webhelybeállítások
     Ügyfél szerkesztése
     Törölje az Ügyfelet
     
-Modulkezelés
+    Modulkezelés
 
- Modulkezelés
- Lista modul
- Modul létrehozása
- Modul szerkesztése
- Modul törlése
-Az alkalmazás jellemzői A kezelőpanel
-Felhasználói hitelesítés
+    Modulkezelés
+    Lista modul
+    Modul létrehozása
+    Modul szerkesztése
+    Modul törlése
+    Az alkalmazás jellemzői A kezelőpanel
+    Felhasználói hitelesítés
 
-Bejegyzés
-Belépés
-Elfelejtett jelszo
-Jelszó visszaállítása
+    Bejegyzés
+    Belépés
+    Elfelejtett jelszo
+    Jelszó visszaállítása
