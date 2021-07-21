@@ -11,12 +11,13 @@
     React JS
     Visual Studio kód
 
-### Hogyan kezdjük
-    1. Klónozza a Githubból
-    2. Telepítse a Composerrel
-    Zeneszerző telepítése
-    3. Futtassa a Migration & Seed parancsot
-    4. Futtatás helyi gépen
+### Telepítés
+     git clone https://github.com/iAty/laravel-icms/
+     cd laravel-icms
+     composer install
+     php artisan key:generate
+     php artisan migrate --seed
+     php artisan storage:link
 
     http://localhost:8000
     
