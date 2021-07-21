@@ -1,7 +1,6 @@
 
 # iCMS
     A iCMS egy nagy CMS alkalmazás, amelyet a Laravelbe építettünk, és egy nagyszerű starter kit webes alkalmazásokhoz.
-    Ez egy olyan alkalmazás, amely minimalizálja a problémákat, miközben új webalkalmazást hoz létre az összes általános funkcióval a Laravel és a          JavaScript Framework / Library (React JS) használatával.
 
 ## A projectről
 
